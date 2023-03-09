@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "gender": "Male",
+        "name": "Raju",
+        "contact": "01934234222",
+        "address": "Feni",
+        "photoUrl": "https://images.unsplash.com/photo-1649180556628-9ba704115795?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9uJTIwcHJvZ3JhbW1pbmclMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "gender": "Female",
+        "name": "Rajia",
+        "contact": "01834234222",
+        "address": "Dhaka",
+        "photoUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 3,
+        "gender": "Male",
+        "name": "Rajib",
+        "contact": "01734234222",
+        "address": "Noakhali",
+        "photoUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "gender": "Female",
+        "name": "Rejbi",
+        "contact": "01634234222",
+        "address": "Chittagong",
+        "photoUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 5,
+        "gender": "Male",
+        "name": "Raja",
+        "contact": "01834234222",
+        "address": "Bandarban",
+        "photoUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 6,
+        "gender": "Female",
+        "name": "Rani",
+        "contact": "01734234222",
+        "address": "Sajek",
+        "photoUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
