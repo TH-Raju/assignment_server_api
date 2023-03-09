@@ -9,3 +9,22 @@ module.exports.getAUser = (req, res) => {
     const foundUser = user.find(usr => usr.id == id);
     res.send(foundUser);
 }
+
+module.exports.saveAUser = (req, res) => {
+    user.push(req.body);
+    res.send(user);
+}
+
+module.exports.updateUser = (req, res) => {
+    const { id } = req.params;
+    const filter = { _id: id };
+    const newUser = user.find(usr => usr.id == id);
+    newUser.id = id;
+    newUser.gender = req.body.gender;
+    newUser.name = req.body.name;
+    newUser.contact = req.body.contact;
+    newUser.address = req.body.address;
+    newUser.photoUrl = req.body.photoUrl;
+    res.send(newUser);
+
+}
